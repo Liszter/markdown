@@ -1,3 +1,5 @@
+
+
 ### 1. call、 apple、 bind
 
 #### 1.1 call的用法
